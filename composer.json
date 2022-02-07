@@ -1,0 +1,13 @@
+{
+    "name": "my/transmissions",
+    "description": "transmissions table name",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bitfumes\\Transmissions\\": "src/"
+        }
+    }
+}
