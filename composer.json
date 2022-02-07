@@ -1,5 +1,5 @@
 {
-    "name": "my/transmissions",
+    "name": "laventino/transmissions",
     "description": "transmissions table name",
     "type": "library",
     "license": "MIT",
